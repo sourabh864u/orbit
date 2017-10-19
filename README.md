@@ -21,7 +21,7 @@ Documentations
 ---
 Update this Readme.md describing how to compile and run the project.
 
-The porject should not have any dependencies on any non-open source software.
+The project should not have any dependencies on non-open source software.
 
 It should be easy to setup and run on a Windows machine
 
@@ -43,6 +43,6 @@ Did you document the instructions to compile and run in this Readme.md?
 
 Did you separate the concerns in your application?
 
-Did you document any area of improvement that you considered but did not have time to implement?
+Did you document any areas of improvement that you considered but did not have time to implement?
 
 Did you comment your code appropriately?
