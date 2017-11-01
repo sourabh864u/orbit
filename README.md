@@ -33,7 +33,7 @@ Complete the project as described above in your own local respository
 
 Create a git bundle: `git bundle create your-name.bundle --all`
 
-Email the bundle file to xzeng@qti.qualcomm.com
+Email the bundle file to the person who contacted you
 
 Evaluations
 ---
