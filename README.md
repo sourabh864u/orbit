@@ -19,30 +19,16 @@ Feel free to spend more time on your areas of strengths (UI, Data Model or Serve
 
 Documentations
 ---
-Update this Readme.md describing how to compile and run the project.
+How to compile and run this project
 
-The project should not have any dependencies on non-open source software.
+1) The Project is using .mdf database to store the issues.
+2) Please check DBIssueTracing.mdf in App_Data folder.
+3) Also make sure the connection string in AccountViewModels.cs    is pointed to right path.
+4) Run the project.
 
-It should be easy to setup and run on a Windows machine
 
-Submission instructions
----
-Clone this repository
+Concerns and area of improvement:
 
-Complete the project as described above in your own local respository
+1) Validation in not done specially for Date.
+2) After submitting the issue the return message show be properly displayed.
 
-Create a git bundle: `git bundle create your-name.bundle --all`
-
-Email the bundle file to the person who contacted you
-
-Evaluations
----
-Did you follow instructions?
-
-Did you document the instructions to compile and run in this Readme.md?
-
-Did you separate the concerns in your application?
-
-Did you document any areas of improvement that you considered but did not have time to implement?
-
-Did you comment your code appropriately?
